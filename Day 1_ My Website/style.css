@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+  line-height: 1.4em;
+  background-color: #eeeeee;
+}
+
+article {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+}
+
+h2 {
+  color: green;
+}
+
+header {
+  background-color: rebeccapurple;
+  text-align: center;
+  padding: 24px;
+  margin-bottom: 36px;
+}
+
+#profile-pic {
+  border-radius: 50px;
+  height: 300px;
+  width: 300px;
+}
+
+section img {
+  height: 200px;
+  width: 200px;
+}
+
+section {
+  background-color: white;
+  margin: 20px;
+  padding: 24px;
+}
+
+section p {
+color: grey;
+}
